@@ -45,7 +45,7 @@
  
  Our model for predicting whether a person suffers from depression achieved 75% accuracy
  
- ## Productionization
+ ## Future Work
  
  Following the result of the algorithm, an individual should be adviced to visit a professional psychologist or be provided a chatbot.
  
