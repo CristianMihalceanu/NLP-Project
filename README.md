@@ -30,4 +30,9 @@
  
  ## EDA
  
+ A sneak peak from inside the project:
+ 
+ ![alt text](https://github.com/CristianMihalceanu/NLP-Project/blob/main/length.PNG)
+ 
+ ![alt text](https://github.com/CristianMihalceanu/NLP-Project/blob/main/wordcloud.PNG)
  
