@@ -2,7 +2,7 @@
 
 ## Project Overview
 
- --> The algorithm predicts depression from Twitter texts with an accuracy of 75%
+ ..* The algorithm predicts depression from Twitter texts with an accuracy of 75%
  --> The data was gathered from a provided dataset on Kaggle
  --> Performed feature engineering on dataset's columns
  --> Explored the data through Wordclouds and histograms
