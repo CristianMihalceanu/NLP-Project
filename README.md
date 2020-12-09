@@ -36,3 +36,16 @@
  
  ![alt text](https://github.com/CristianMihalceanu/NLP-Project/blob/main/wordcloud.PNG)
  
+ ## Text Generation
+ 
+ 1. Provided a brief explanation of RNN and LSTM
+ 2. Created a neural network and used backpropagation to train it on our data in order to generate a new word based off of 50 previous ones
+ 
+ ## Model Performance 
+ 
+ Our model for predicting whether a person suffers from depression achieved 75% accuracy
+ 
+ ## Productionization
+ 
+ Following the result of the algorithm, an individual should be adviced to visit a professional psychologist or be provided a chatbot.
+ 
